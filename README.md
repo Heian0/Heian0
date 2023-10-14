@@ -2,7 +2,7 @@
 - I'm a second year computer science and applied mathematics student studying at the University of Toronto.
 - I am also a software developer at EduBeyond, an EdTech company creating AI powered LMS for educational institutions.
 ## Current projects
-- Work at EduBeyond.
+- Work at [EduBeyond](https://www.edubeyond.dev/).
 ## Past Projects
 - [FE Engine](https://github.com/Heian0/FE-Engine): A strategy game framework inspired by Nintendo's Fire Emblem series.
 ## Misc
