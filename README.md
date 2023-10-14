@@ -14,7 +14,6 @@ Hi there, I'm Tim 👋
 ### Contacts
 - timrui.li@mail.utoronto.ca
 - [LinkedIN](https://www.linkedin.com/in/timothy-li-854342240/)
-- 
 --------------------------------------------------------------------------------------------------
 ### Most Used Languages
 - Python
