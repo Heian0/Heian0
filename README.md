@@ -1,16 +1,16 @@
-# Hi there, I'm Tim 👋 `#0969DA`
+# Hi there, I'm Tim 👋
 - I'm a second year computer science and applied mathematics student studying at the University of Toronto.
 - I am also a software developer at EduBeyond, an EdTech company creating AI powered LMS for educational institutions.
-## Current projects `#0969DA`
+## Current projects 
 - Work at [EduBeyond](https://www.edubeyond.dev/).
 ## Past Projects`#0969DA`
 - [FE Engine](https://github.com/Heian0/FE-Engine): A strategy game framework inspired by Nintendo's Fire Emblem series.
-## Misc `#0969DA`
+## Misc 
 - I love playing guitar, and am a big fan of RHCP, John Mayer, and Hendrix. You can check out some of my covers [here](https://www.instagram.com/ltrui_guitar).
   ## Contacts `#0969DA`
   - timrui.li@mail.utoronto.ca
   - [LinkedIN](https://www.linkedin.com/in/timothy-li-854342240/)
-## Most Used Languages `#0969DA`
+## Most Used Languages 
 - Python
 - C#
 - Java
