@@ -15,8 +15,12 @@ Hi there, I'm Tim 👋
 - timrui.li@mail.utoronto.ca
 - [LinkedIN](https://www.linkedin.com/in/timothy-li-854342240/)
 --------------------------------------------------------------------------------------------------
-### Most Used Languages
+### Languages
 - Python
 - C#
 - Java
+- C
+- C++
+- JavaScript
+- TypeScript
 
