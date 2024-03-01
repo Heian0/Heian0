@@ -16,15 +16,6 @@ Hi there, I'm Tim 👋
 - timrui.li@mail.utoronto.ca
 - [LinkedIN](https://www.linkedin.com/in/timothy-li-854342240/)
 --------------------------------------------------------------------------------------------------
-### Languages
-- Python
-- C++
-- C#
-- Java
-- C
-- JavaScript
-- TypeScript
-
 #### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
