@@ -7,7 +7,7 @@ Hi there, I'm Tim 👋
 - I also love playing guitar, and am a big fan of RHCP, John Mayer, and Hendrix. You can check out some of my covers [here](https://www.instagram.com/ltrui_guitar).
 
 ### Current Projects
-- [LeNESemu]: A 
+- [LeNESemu]: A Nintendo Entertainment System emulator written in C/C++ for an embedded Linux device.
 - [Poker Assist]: A Windows desktop application created using C++ and ImGUI capable of visualizing bet probabilities in a real-time Texas Hold-Em poker game. Includes a training tool that rates user play and GTO strategy visualizers.
 
 ### Past Projects
