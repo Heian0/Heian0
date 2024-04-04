@@ -7,10 +7,12 @@ Hi there, I'm Tim 👋
 - I also love playing guitar, and am a big fan of RHCP, John Mayer, and Hendrix. You can check out some of my covers [here](https://www.instagram.com/ltrui_guitar).
 
 ### Current Projects
-- [LinuxShell](https://github.com/Heian0/LinuxShell): A custom Linux bash shell made from scratch using C.
+- [LeNESemu]: A 
 - [Poker Assist]: A Windows desktop application created using C++ and ImGUI capable of visualizing bet probabilities in a real-time Texas Hold-Em poker game. Includes a training tool that rates user play and GTO strategy visualizers.
 
 ### Past Projects
+- [Assembly Tetris](): Arcade Tetris made using Assembly language.
+- [LinuxShell](https://github.com/Heian0/LinuxShell): A custom Linux bash shell made from scratch using C.
 - [FE Engine](https://github.com/Heian0/FE-Engine): A strategy game framework inspired by Nintendo's Fire Emblem series.
 
 ### Contacts
@@ -20,8 +22,8 @@ Hi there, I'm Tim 👋
 #### Languages
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
