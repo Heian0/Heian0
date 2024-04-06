@@ -11,7 +11,7 @@ Hi there, I'm Tim 👋
 - [Poker Assist]: A Windows desktop application created using C++ and ImGUI capable of visualizing bet probabilities in a real-time Texas Hold-Em poker game. Includes a training tool that rates user play and GTO strategy visualizers.
 
 ### Past Projects
-- [Assembly Tetris](): Arcade Tetris made using Assembly language.
+- [Assembly Tetris](https://github.com/Heian0/AssemblyTetris): Arcade Tetris made using Assembly language.
 - [LinuxShell](https://github.com/Heian0/LinuxShell): A custom Linux bash shell made from scratch using C.
 - [FE Engine](https://github.com/Heian0/FE-Engine): A strategy game framework inspired by Nintendo's Fire Emblem series.
 
