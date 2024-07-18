@@ -7,7 +7,7 @@ Hi there, I'm Tim 👋
 - I also love playing guitar, and am a big fan of RHCP, John Mayer, and Hendrix. You can check out some of my covers [here](https://www.instagram.com/ltrui_guitar).
 
 ### Current Projects
-- [Black-Scholes Model Visualization tool]([https://github.com/Heian0/Pokebot](https://github.com/Heian0/Black-Scholes-Visualizer)): Black-Scholes European Option pricer featuring volatility heatmap and option greek plots.
+- [Black-Scholes Option Pricer & Visualization Tool](https://github.com/Heian0/Black-Scholes-Visualizer): Black-Scholes European Option pricer featuring volatility heatmap and option greek plots.
 
 ### Past Projects
 - [Pokebot](https://github.com/Heian0/Pokebot): Deep RL agent trained using deep Q learning to play Pokemon Showdown single battles.
