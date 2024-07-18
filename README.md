@@ -7,11 +7,14 @@ Hi there, I'm Tim 👋
 - I also love playing guitar, and am a big fan of RHCP, John Mayer, and Hendrix. You can check out some of my covers [here](https://www.instagram.com/ltrui_guitar).
 
 ### Current Projects
-- [LeNESemu](https://github.com/Heian0/LeNESemu): A Nintendo Entertainment System emulator written in C/C++ for an embedded Linux device.
-- [Poker Assist]: A Windows desktop application created using C++ and ImGUI capable of visualizing bet probabilities in a real-time Texas Hold-Em poker game. Includes a training tool that rates user play and GTO strategy visualizers.
+- [Black-Scholes Model Visualization tool]([https://github.com/Heian0/Pokebot](https://github.com/Heian0/Black-Scholes-Visualizer)): Black-Scholes European Option pricer featuring volatility heatmap and option greek plots.
 
 ### Past Projects
-- [Assembly Tetris](https://github.com/Heian0/Assembly-Tetris): Arcade Tetris made using Assembly language.
+- [Pokebot](https://github.com/Heian0/Pokebot): Deep RL agent trained using deep Q learning to play Pokemon Showdown single battles.
+- [LeNESemu](https://github.com/Heian0/LeNESemu): A Nintendo Entertainment System emulator written in C/C++ for an embedded Linux device.
+- [SHA2 in Rust]([https://github.com/Heian0/Assembly-Tetris):](https://github.com/Heian0/rust_crypto) An implementation of the SHA2 Hash Function written in Rust.
+- [CHIP8 Emulator in Rust](https://github.com/Heian0/chip8_emu_rust): Chip8 emulator written in Rust and OpenGL.
+- [Assembly Tetris](https://github.com/Heian0/Assembly-Tetris): Arcade Tetris written in Assembly language.
 - [LinuxShell](https://github.com/Heian0/LinuxShell): A custom Linux bash shell made from scratch using C.
 - [FE Engine](https://github.com/Heian0/FE-Engine): A strategy game framework inspired by Nintendo's Fire Emblem series.
 
