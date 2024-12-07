@@ -10,7 +10,7 @@ Hi there, I'm Tim 👋
 
 ### Past Projects
 - [Pokebot](https://github.com/Heian0/Pokebot): Deep RL agent trained using deep Q learning to play Pokemon Showdown single battles.
-- [LeNESemu](https://github.com/Heian0/LeNESemu): A Nintendo Entertainment System emulator written in C/C++ for an embedded Linux device.
+- [LeNESemu](https://github.com/Heian0/LeNESemu): A Nintendo Entertainment System emulator written in C++.
 - [SHA2 in Rust](https://github.com/Heian0/rust_crypto): An implementation of the SHA2 Hash Function written in Rust.
 - [CHIP8 Emulator in Rust](https://github.com/Heian0/chip8_emu_rust): Chip8 emulator written in Rust and OpenGL.
 - [Assembly Tetris](https://github.com/Heian0/Assembly-Tetris): Arcade Tetris written in Assembly language.
