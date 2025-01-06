@@ -2,13 +2,14 @@ Hi there, I'm Tim 👋
 ==================================================================================================
 ### About Me
 - I'm a junior year computer science and mathematics student at the University of Toronto.
-- I've previously worked as a software engineer at [EduBeyond](https://www.edubeyond.dev/), an EdTech company creating AI powered learning management systems for educational institutions, and was previously a SWE intern @ [Broadridge](https://www.broadridge.com/) on post-trade processing, developer tools, and build systems. I'm currenly working at Tesla as a software engineering intern on the wireless vehicle charging team.
+- I've previously worked as a software engineer at [EduBeyond](https://www.edubeyond.dev/), an EdTech company creating AI powered learning management systems for educational institutions, and was previously a SWE intern @ [Broadridge](https://www.broadridge.com/) on post-trade processing, developer tools, and build systems. I'm currenly working at [Tesla](https://www.tesla.com/) as a software engineering intern on the wireless vehicle charging team.
 - I also love playing guitar, and am a big fan of RHCP, John Mayer, and Hendrix. You can check out some of my covers [here](https://www.instagram.com/ltrui_guitar).
 
 ### Current Projects
-- [Black-Scholes Option Pricer & Visualization Tool](https://github.com/Heian0/Black-Scholes-Visualizer): Black-Scholes European Option pricer featuring volatility heatmap and option greek plots.
+- [LeGoTradingEngine](https://github.com/Heian0/LeGoTradingEngine): Low latency stock exchange simulator and order matching engine in Go and gRPC.
 
 ### Past Projects
+- [Black-Scholes Option Pricer & Visualization Tool](https://github.com/Heian0/Black-Scholes-Visualizer): Black-Scholes European Option pricer featuring volatility heatmap and option greek plots.
 - [Pokebot](https://github.com/Heian0/Pokebot): Deep RL agent trained using deep Q learning to play Pokemon Showdown single battles.
 - [LeNESemu](https://github.com/Heian0/LeNESemu): A Nintendo Entertainment System emulator written in C++.
 - [SHA2 in Rust](https://github.com/Heian0/rust_crypto): An implementation of the SHA2 Hash Function written in Rust.
