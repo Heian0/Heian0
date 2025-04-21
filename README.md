@@ -2,7 +2,7 @@ Hi there, I'm Tim 👋
 ==================================================================================================
 ### About Me
 - I'm a junior year computer science and mathematics student at the University of Toronto.
-- I've previously worked as a software engineer at [EduBeyond](https://www.edubeyond.dev/), an EdTech company creating AI powered learning management systems for educational institutions, and was previously a SWE intern @ [Broadridge](https://www.broadridge.com/) on post-trade processing, developer tools, and build systems. I'm currenly working at [Tesla](https://www.tesla.com/) as a software engineering intern on the wireless vehicle charging team.
+- I'm an incoming quantitative developer intern at [Point72/Cubist Systematic Strategies]([ttps://www.instagram.com/ltrui_guitar](https://point72.com/)) on the Low Latency Technologies team.
 - I also love playing guitar, and am a big fan of RHCP, John Mayer, and Hendrix. You can check out some of my covers [here](https://www.instagram.com/ltrui_guitar).
 
 ### Current Projects
