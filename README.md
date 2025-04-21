@@ -6,12 +6,12 @@ Hi there, I'm Tim 👋
 - I also love playing guitar, and am a big fan of RHCP, John Mayer, and Hendrix. You can check out some of my covers [here](https://www.instagram.com/ltrui_guitar).
 
 ### Current Projects
-- [LeGoTradingEngine](https://github.com/Heian0/LeGoTradingEngine): Low latency stock exchange simulator and order matching engine in Go and gRPC.
 
 ### Past Projects
+- [LeNESemu](https://github.com/Heian0/LeNESemu): A Nintendo Entertainment System emulator written in C++.
+- [LeGoTradingEngine](https://github.com/Heian0/LeGoTradingEngine): Low latency stock exchange simulator and order matching engine in Go and gRPC.
 - [Black-Scholes Option Pricer & Visualization Tool](https://github.com/Heian0/Black-Scholes-Visualizer): Black-Scholes European Option pricer featuring volatility heatmap and option greek plots.
 - [Pokebot](https://github.com/Heian0/Pokebot): Deep RL agent trained using deep Q learning to play Pokemon Showdown single battles.
-- [LeNESemu](https://github.com/Heian0/LeNESemu): A Nintendo Entertainment System emulator written in C++.
 - [SHA2 in Rust](https://github.com/Heian0/rust_crypto): An implementation of the SHA2 Hash Function written in Rust.
 - [CHIP8 Emulator in Rust](https://github.com/Heian0/chip8_emu_rust): Chip8 emulator written in Rust and OpenGL.
 - [Assembly Tetris](https://github.com/Heian0/Assembly-Tetris): Arcade Tetris written in Assembly language.
@@ -20,7 +20,7 @@ Hi there, I'm Tim 👋
 
 ### Contacts
 - timrui.li@mail.utoronto.ca
-- [LinkedIN](https://www.linkedin.com/in/timothy-li-854342240/)
+- [LinkedIN](https://www.linkedin.com/in/timothyli3360/)
 --------------------------------------------------------------------------------------------------
 #### Languages
 
