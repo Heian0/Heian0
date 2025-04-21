@@ -2,7 +2,7 @@ Hi there, I'm Tim 👋
 ==================================================================================================
 ### About Me
 - I'm a junior year computer science and mathematics student at the University of Toronto.
-- I'm an incoming quantitative developer intern at [Point72/Cubist Systematic Strategies]([ttps://www.instagram.com/ltrui_guitar](https://point72.com/)) on the Low Latency Technologies team.
+- I'm an incoming quantitative developer intern at [Point72/Cubist Systematic Strategies](https://point72.com/) on the Low Latency Technologies team.
 - I also love playing guitar, and am a big fan of RHCP, John Mayer, and Hendrix. You can check out some of my covers [here](https://www.instagram.com/ltrui_guitar).
 
 ### Current Projects
