@@ -6,7 +6,7 @@ Hi there, I'm Tim 👋
 - I also love playing guitar, and am a big fan of RHCP, John Mayer, and Hendrix. You can check out some of my covers [here](https://www.instagram.com/ltrui_guitar).
 
 ### Current Projects
-- [Excelsior](https://github.com/Heian0/Excelsior): A high performance, cache opmtimized paper market maker for NASDAQ and NYSE equities.
+- [Excelsior](https://github.com/Heian0/Excelsior): A high performance market data parser and disseminator (SPMC) for NASDAQ equities.
 
 ### Past Projects
 - [LeNESemu](https://github.com/Heian0/LeNESemu): A Nintendo Entertainment System emulator written in C++.
