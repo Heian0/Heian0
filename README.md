@@ -9,7 +9,7 @@ Hi there, I'm Tim 👋
 - [Excelsior](https://github.com/Heian0/Excelsior): A high performance market data parser and disseminator (SPMC) for NASDAQ equities.
 
 ### Past Projects
-- [LeNESemu](https://github.com/Heian0/LeNESemu): A Nintendo Entertainment System emulator written in C++.
+- [LeNESemu](https://github.com/Heian0/LeNESemu): A Nintendo Entertainment System emulator for Unreal Engine written in C++.
 - [LeGoTradingEngine](https://github.com/Heian0/LeGoTradingEngine): Low latency stock exchange simulator and order matching engine in Go and gRPC.
 - [Black-Scholes Option Pricer & Visualization Tool](https://github.com/Heian0/Black-Scholes-Visualizer): Black-Scholes European Option pricer featuring volatility heatmap and option greek plots.
 - [Pokebot](https://github.com/Heian0/Pokebot): Deep RL agent trained using deep Q learning to play Pokemon Showdown single battles.
